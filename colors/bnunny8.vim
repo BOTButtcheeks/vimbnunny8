@@ -9,7 +9,7 @@ if exists('syntax_on')
   syntax reset
 endif
 
-let g:colors_name = 'pico8'
+let g:colors_name = 'bnunny8'
 
 let s:black       = '#000000'
 let s:dark_blue   = '#1D2B53'
