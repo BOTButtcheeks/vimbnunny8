@@ -11,9 +11,8 @@ Vim color scheme inspired by the [PICO-8](https://www.lexaloffle.com/pico-8.php)
 
 Currently only designed for Lua/PICO-8 files (colors don't look good with other languages and file types).
 
-|                  Vim                  |                   PICO-8                   |
-|:-------------------------------------:|:------------------------------------------:|
-| ![Vim screenshot](screenshot-vim.png) | ![PICO-8 screenshot](screenshot-pico8.png) |
+ ![Vim screenshot](screenshot-vim.png) 
+![PICO-8 screenshot](screenshot-pico8.png) 
 
 ## Installation
 
