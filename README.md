@@ -1,6 +1,11 @@
-<img src="logo.svg" height="50px">
+## vimbnunny8 is a fork of markbahnman/vim-pico8-color
+I didn't like the grey... and then I adjusted a lot of colours for fun.
+I did run this through the color test thing so it should be all visible.
+It should be compatible in the same way the original markbahnman/vim-pico8-color.
+I believe I have left the original colors alone so sprite mapping still is the same.
 
----
+
+## the old description is below, modified to help a bit
 
 Vim color scheme inspired by the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console.
 
@@ -17,11 +22,15 @@ Requires a terminal with true color support (or GVim/MacVim).
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'evanrelf/vim-pico8-color'
+Plug 'BOTButtcheeks/vimbnunny8'
 Plug 'ssteinbach/vim-pico8-syntax' " optional
+```
+I honestly haven't gotten a pico-8 syntax to work, as you can see with the errors in the pictures, but that should be unrelated to coloring
 
+put the below stuff after the call plug#end(), I don't think it works above it
+```vim
 set termguicolors
-colorscheme pico8
+colorscheme bnunny8.vim
 ```
 
 ## Related projects
