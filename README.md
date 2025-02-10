@@ -9,9 +9,10 @@ I believe I have left the original colors alone so sprite mapping still is the s
 
 Vim color scheme inspired by the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console.
 
-Currently only designed for Lua/PICO-8 files (colors don't look good with other languages and file types).
+
 
  ![Vim screenshot](screenshot-vim.png) 
+(Font in the pic is Bolded Cousine Nerd Font Mono)
 ![PICO-8 screenshot](screenshot-pico8.png) 
 
 ## Installation
